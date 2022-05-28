@@ -1,0 +1,143 @@
+ 
+
+    
+<section data-aos="fade-left" data-aos-duration="2000">
+  <img src="19.jpg">
+<h2 data-aos="fade" data-aos-duration="4000" data-aos-delay="500">MEMBERSHIP DRIVE 2021
+</h2><br><br>
+<p data-aos="fade" data-aos-duration="4000" data-aos-delay="800" style="font-size: 20px; font-family:'Black Ops One', cursive;">Members will get an opportunity to attend various<br> webinars, workshops, conferences and <br>forums that occurs worldwide and will have access<br> to IEEE Xplore digital library, newsletters, various <br>journals and magazines and much more<br>
+  Payment details:<br>
+  Scan the UPI QR code given in the registration form<br> or Send using UPI ID: 7907015473@ybl or phonepe to the same number !!<br>
+  Register yourselves to be a part of IEEE-SJCE, to learn,<br> create and explore by clicking on the link icon below.
+ 
+   <br><br>
+<center> <div class="col-md-4"> <!-- start 1st column -->
+  <span class="pr-2">Follow Us:</span>
+  <a href="#" target="_blank" class="pr-2 fi-color"><i
+  class="fab fa-facebook-f"></i></a>
+  <a href="#" target="_blank" class="pr-2 fi-color"><i
+  class="fab fa-twitter"></i></a>
+  <a href="#" target="_blank" class="pr-2 fi-color"><i
+  class="fab fa-instagram"></i></a>
+  <a href="#" target="_blank" class="pr-2 fi-color"><i
+  class="fab fa-google-plus-g"></i></a>
+  <a href="#" target="_blank" class="pr-2 fi-color"><i
+  class="fab fa-rss"></i></a>
+ 
+  </p></div>
+</div></center><!-- end of 1st column --></section></div></center>
+<br><br>
+<center>
+<section  data-aos="fade-right" data-aos-duration="2000"><img src="18.jpg"><div class="content">
+<h2 data-aos="fade" data-aos-duration="4000" data-aos-delay="500">SNAP CIRCUIT WORKSHOP</h2><br><br>
+<p data-aos="fade" data-aos-duration="4000" data-aos-delay="800"  style="font-size: 20px; font-family:'Black Ops One', cursive; ">▪️Get an idea of basic electronic components and build circuits using them.<br>
+  ▪️Learn the basics of breadboard connections.<br>
+  ▪️Get hands-on experience by rigging up the circuits.<br>
+  Entry fee:<br>
+  IEEE Members : FREE<br>
+  Non IEEE Members: INR 50<br>
+  
+  Date: 19th March - 5:30 PM<br>
+  20th March - 2.30PM
+  Venue: NPS 001<br>
+  Get yourself registered with the link below :<br><br><br>
+  <div class="col-md-4"> <!-- start 1st column -->
+    <span class="pr-2">Follow Us:</span>
+    <a href="#" target="_blank" class="pr-2 fi-color"><i
+    class="fab fa-facebook-f"></i></a>
+    <a href="#" target="_blank" class="pr-2 fi-color"><i
+    class="fab fa-twitter"></i></a>
+    <a href="#" target="_blank" class="pr-2 fi-color"><i
+    class="fab fa-instagram"></i></a>
+    <a href="#" target="_blank" class="pr-2 fi-color"><i
+    class="fab fa-google-plus-g"></i></a>
+    <a href="#" target="_blank" class="pr-2 fi-color"><i
+    class="fab fa-rss"></i></a>
+   
+  </div></p>
+</div></section1></center>
+
+
+
+
+
+
+
+
+
+
+<div class="jumbotron bg-white">
+
+ 
+  <div class="cont text-center border-bottom" id="Services">
+   
+    <div class="row mt-4">
+        <div class="col-sm-6 mb-4"data-aos="fade-left" data-aos-duration="2000" data-aos-delay="500">
+          <img class="tran" src="19.jpg">
+         
+        </div>
+        <div class="col-sm-5 mb-4"data-aos="fade-left" data-aos-duration="1000" data-aos-delay="500" style="background-color: rgb(172, 175, 175);">
+          <h2 >MEMBERSHIP DRIVE 2021
+          </h2><br><br>
+          <p data-aos="fade" data-aos-duration="4000" data-aos-delay="800" style="font-size: 20px; font-family:'Black Ops One', cursive;">Members will get an opportunity to attend various<br> webinars, workshops, conferences and <br>forums that occurs worldwide and will have access<br> to IEEE Xplore digital library, newsletters, various <br>journals and magazines and much more<br>
+            Payment details:<br>
+            Scan the UPI QR code given in the registration form<br> or Send using UPI ID: 7907015473@ybl or phonepe to the same number !!<br>
+            Register yourselves to be a part of IEEE-SJCE, to learn,<br> create and explore by clicking on the link icon below.
+           
+             <br><br>
+          <center> <div class="col-md-4"> <!-- start 1st column -->
+            <span class="pr-2">Follow Us:</span>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-facebook-f"></i></a>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-twitter"></i></a>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-instagram"></i></a>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-google-plus-g"></i></a>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-rss"></i></a>
+           
+            </p></div>
+          </center></div>
+      
+      <div class="col-sm-6 mb-4" data-aos="fade-right" data-aos-duration="2000" data-aos-delay="500">
+        <img class="tran" src="18.jpg">
+       
+      </div>
+      <div class="col-sm-5 mb-4" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="500" style="background-color:  rgb(172, 175, 175);">
+        <h2>SNAP CIRCUIT WORKSHOP</h2><br><br>
+        <p   style="font-size: 20px; font-family:'Black Ops One', cursive; ">▪️Get an idea of basic electronic components and build circuits using them.<br>
+          ▪️Learn the basics of breadboard connections.<br>
+          ▪️Get hands-on experience by rigging up the circuits.<br>
+          Entry fee:<br>
+          IEEE Members : FREE<br>
+          Non IEEE Members: INR 50<br>
+          
+          Date: 19th March - 5:30 PM<br>
+          20th March - 2.30PM
+          Venue: NPS 001<br>
+          Get yourself registered with the link below :<br><br><br>
+         <center><div class="col-md-4"> <!-- start 1st column -->
+            <span class="pr-2">Follow Us:</span>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-facebook-f"></i></a>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-twitter"></i></a>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-instagram"></i></a>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-google-plus-g"></i></a>
+            <a href="#" target="_blank" class="pr-2 fi-color"><i
+            class="fab fa-rss"></i></a>
+           
+          </div></center> </p>
+
+
+      </div>
+       
+      </div></div>
+     
+       
+    </div>
+</div><!..end service>

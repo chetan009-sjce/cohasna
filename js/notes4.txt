@@ -1,0 +1,27 @@
+ <ul>
+                 <li><a href="#">STUDENT BRANCH</a></li>
+                 <li><a href="#">ELECTRON DEVICE SOCIETY</a></li>
+                 <li><a href="#">WOMEN ENG SOCIETY</a></li>
+                 <li><a href="#">ROBOTICS SOCIETY</a></li>
+               </ul></li>
+
+   <ul>
+              <a href="#">EXECUTIVE COMMITEE</a></li>
+              <a href="#">MEMBER DEV COMMITEE</a></li>
+              <a href="#">BOARDS</a></li>
+              <a href="#">TEAMS</a></li>
+            </ul></li>
+
+   <ul> 
+              <li><a href="#">INSTAGRAM</a></li>
+              <li><a href="#">FACEBOOK</a></li>
+              <li><a href="#">TWITTER</a></li>
+              <li><a href="#">LINKED IN</a></li>
+            </ul></li>
+  <ul> 
+              <li><a href="#">IMAGES/VIDEOS </a></li>
+              </ul></li>
+ <ul> 
+              <li><a href="#">CYBERIA</a></li>
+              <li><a href="#">TUXEDO</a></li>
+              </ul></li>

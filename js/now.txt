@@ -1,0 +1,5 @@
+Specifications in Python: projects :: School data analysis and graphical representation ,built 5 games via python,
+Representation of data using various Graphs.
+HTML,CSS,PHP,[removed] Frontend and backend developer
+Built a completel y reactive website.
+Learnt these Languages in stipulated period of 6 months   

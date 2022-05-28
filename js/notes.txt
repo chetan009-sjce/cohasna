@@ -1,0 +1,25 @@
+  <nav class="navbar navbar-expand-sm navbar-dark bg-white pl-5 fixed-top">
+        <a href="index.php"><div class="navbar-brand"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JK1TqT5-4gAY4BMz3eZTLRXmLjVMmFlB6gsib-Yke7PR6Ym0WrPaLffJFnnBJeDepLo&usqp=CAU" border-radius="100px" width="50px" height="50px"></a>
+        </div>
+       
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="myMenu">
+            <ul class="navbar-nav pl-5 custom-nav">
+                <li class="nav-item"><a href="index.php" class="nav-link active">HOME </a></li>
+                <li class="nav-item"><a href="#Services" class="nav-link">BOARDS </a></li>
+                <li class="nav-item"><a href="#Registration" class="nav-link">SOCITIES </a></li>
+                <li class="nav-item"><a href="Requester/RequesterLogin.php" class="nav-link">TEAM </a></li>
+                <li class="nav-item"><a href="#Contact" class="nav-link">CONTACT </a></li>
+                <li class="nav-item"><a href="#Contact" class="nav-link">GALLERY </a></li>
+                <li class="nav-item"><a href="#Contact" class="nav-link">FESTS </a></li>
+            
+            
+            </ul>
+
+        </div>
+
+        <div class="last">IEEE-SJCE</div>
+    </nav>

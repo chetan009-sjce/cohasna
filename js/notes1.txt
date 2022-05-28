@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!..bootstrap>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!..font awesome>
+    <link rel="stylesheet" href="css/all.min.css">
+    
+     <!..google fonts>
+     <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Ultra&display=swap" rel="stylesheet">
+
+    <!..custom css>
+    <link rel="stylesheet" href="css/style.css">
+  
+
+
+    <title>IEEE-SJCE</title>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-default">
+            <div class="container">
+           
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">IEEE_SJCE</a>
+              </div>
+          
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+               
+               
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#">home</a></li>
+                  <li><a href="#">us</a></li>
+                  <li><a href="#">go</a></li>
+                  <li><a href="#">now</a></li>
+                  <li><a href="#">kk</a></li>
+                  <li><a href="#">lol</a></li>
+                  
+                </ul>
+              </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+          </nav>
+          <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+            </ol>
+          
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item">
+               <div class="banner" style="background-image: url(images/1.jpg.jpg);"></div>
+                <div class="carousel-caption">
+                 <h2> Welcome to <span>IEEE-SJCE</span></h2>
+                 <h3>Experience the joy of learning with IEEE-SJCE! </h3>
+                </div>
+              </div>
+              <div class="item">
+                 <div class="banner" style="background-image: url(images/2.jpg.jpg);"></div>
+                <div class="carousel-caption">
+                  <h3><span>IEEE-SJCE</span></h3>
+                  <h4>IEEE is a global community to innovate for a better tommorow and is a</h4>
+                  <h5>trusted voice for engineering and technology around the globe..</h5>
+                </div>
+           <div class="item">
+                 <div class="banner" style="background-image: url(images/3.jpg.jpg);"></div>
+                <div class="carousel-caption">
+                  <h1><span>GREAT </span></h1>
+                  <h1><span>PERFORMANCE</span></h1>
+                  <h3> A driven team that endures challenges for the</h3>
+                  <h4>overall wellbeing and development of the club</h4>
+                </div>
+                <div class="item">
+                  <div class="banner" style="background-image: url(images/4.jpg.jpg);"></div>
+                 <div class="carousel-caption">
+                   <h3><span>TECH-KNOW-LOGY</span></h3>
+                   <h4>To adapt growth and development in the techarena,several hands-on</h4>
+                   <h5>workshops are carried on.</h5>
+                 </div>
+                 <div class="item">
+                  <div class="banner" style="background-image: url(images/5.jpg.jpg);"></div>
+                 <div class="carousel-caption">
+                   <h3><span>EQUALITY ENSURES THE</span></h3>
+                   <h3><span>GROWTH PROWESS</span></h3>
+                   <h4>Women empowerment in all technical aspects is the goal of 'women in</h4>
+                   <h5>engineering.'</h5>
+                 </div>
+              </div>
+              ...
+            </div>
+          
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>   
+          </header>
+    </header>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    </body>
+    </html>
